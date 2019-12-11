@@ -12,7 +12,7 @@ int main()
        printf("Error!");
        exit(1);
    }
-   for(i = 0; i < num; ++i)
+   for(i = 0; i <= num; ++i)
    {
       printf("For student%d\nEnter name: ", i+1);
       scanf("%s", name);
