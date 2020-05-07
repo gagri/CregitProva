@@ -1,6 +1,8 @@
 #include <stdio.h>
 int main()
 {
+   
+   
    char name[50];
    int marks, i, num;
    printf("Enter number of students: ");
